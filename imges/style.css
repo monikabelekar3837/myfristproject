@@ -1,0 +1,24 @@
+.btnclose{
+    background-color: rgb(255, 127, 127);
+    padding:10px;
+    font-size: 20px;
+    margin:10px;
+    border:1px solid black;
+    border-radius: 10px;
+}
+.btnclose:hover{
+    box-shadow: 0 0 10ox black;
+    transition:0.5;
+}
+.Submit{
+    background-color: rgb(255, 0, 157);
+    color:black;
+}
+.Close{
+    background-color: rgb(76, 43, 226);
+    color:black
+}
+.Save{
+    background-color: rgb(255, 127, 170);
+    color:black;
+}
